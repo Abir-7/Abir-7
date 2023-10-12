@@ -1,5 +1,20 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h3 align="center">I am a Full Stack Developer. I'm open to work. </h3>
+- 🔭 I’m currently creating **a food order website.**
+- 🌱 I’m currently learning ** I’m currently learning many things, I believe that everyday is a learning opportunity.**
+- 💬 Ask me about **React.js, Express JS, Node JS, Rest Api**
+- 📫 Email: **md.tazwarul.islam.07@gmail.com**
+- 👨‍💻My Portfolio **https://abir-portfolio-07.netlify.app/**
+- 📄 My Resume: **https://drive.google.com/file/d/1aDcMu4VghYj8e2bmxjkEaA6Ek3SvncDU/view?usp=drive_link**
+- ⚡ Fun fact: **I love to cook, I love to sing, I love to travel on my motorcycle.**
+
+<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/md-tazwarul-islam-abir-5762b7214/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/Abir-7" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:md.tazwarul.islam.07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-tazwarul-islam-abir-5762b7214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-tazwarul-islam-abir-5762b7214/" height="30" width="40" /></a><a href="https://fb.com/https://www.facebook.com/tazwarul.islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="https://www.facebook.com/tazwarul.islam" height="30" width="40" /></a></p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
@@ -19,22 +34,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-- 🔭 I’m currently creating **a food order website.**
-- 🌱 I’m currently learning ** I’m currently learning many things, I believe that everyday is a learning opportunity.**
-- 💬 Ask me about **React.js, Express JS, Node JS, Rest Api**
-- 📫 Email: **md.tazwarul.islam.07@gmail.com**
-- 👨‍💻My Portfolio **https://abir-portfolio-07.netlify.app/**
-- 📄 My Resume: **https://drive.google.com/file/d/1aDcMu4VghYj8e2bmxjkEaA6Ek3SvncDU/view?usp=drive_link**
-- ⚡ Fun fact: **I love to cook, I love to sing, I love to travel on my motorcycle.**
-
-<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/md-tazwarul-islam-abir-5762b7214/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Abir-7" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:md.tazwarul.islam.07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-tazwarul-islam-abir-5762b7214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-tazwarul-islam-abir-5762b7214/" height="30" width="40" /></a><a href="https://fb.com/https://www.facebook.com/tazwarul.islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="https://www.facebook.com/tazwarul.islam" height="30" width="40" /></a></p>
-
-
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abir-7&layout=compact&theme=" alt=Abir-7 />
