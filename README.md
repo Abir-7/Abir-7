@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h3 align="center">I am a Full Stack Developer. I'm open to work. </h3>
-- 🔭 I’m currently creating **a food order website.**  <br />
-- 🌱 I’m currently learning ** I’m currently learning many things, I believe that everyday is a learning opportunity.**  <br />
+- 🔭 I’m currently creating a food order website.  <br />
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.  <br />
 - 💬 Ask me about **React.js, Express JS, Node JS, Rest Api**  <br />
-- 📫 Email: **md.tazwarul.islam.07@gmail.com** <br />
-- 👨‍💻My Portfolio **https://abir-portfolio-07.netlify.app/** <br />
-- 📄 My Resume: **https://drive.google.com/file/d/1aDcMu4VghYj8e2bmxjkEaA6Ek3SvncDU/view?usp=drive_link** <br />
-- ⚡ Fun fact: **I love to cook, I love to sing, I love to travel on my motorcycle.**  <br />
+- 📫 Email: md.tazwarul.islam.07@gmail.com <br />
+- 👨‍💻My Portfolio https://abir-portfolio-07.netlify.app <br />
+- 📄 My Resume: https://drive.google.com/file/d/1aDcMu4VghYj8e2bmxjkEaA6Ek3SvncDU/view?usp=drive_link <br />
+- ⚡ Fun fact: I love to cook, I love to sing, I love to travel on my motorcycle.  <br />
  
 <div>
 <a href = "mailto:md.tazwarul.islam.07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
