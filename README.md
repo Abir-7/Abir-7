@@ -8,7 +8,7 @@
 - 📄 My Resume: **https://drive.google.com/file/d/1aDcMu4VghYj8e2bmxjkEaA6Ek3SvncDU/view?usp=drive_link** <br />
 - ⚡ Fun fact: **I love to cook, I love to sing, I love to travel on my motorcycle.**  <br />
  
-<div> Email: 
+<div>
 <a href = "mailto:md.tazwarul.islam.07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
