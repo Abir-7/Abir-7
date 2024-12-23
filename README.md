@@ -1,4 +1,4 @@
-![Banner Image](https://drive.google.com/file/d/10UyMQ5VT0CkvrvGgUZFnu0iFbtpa2jnZ/view?usp=sharing)
+![Banner Image](https://drive.google.com/uc?export=view&id=10UyMQ5VT0CkvrvGgUZFnu0iFbtpa2jnZ
 
 - 🔭 I’m currently working on [Mobile-Shop](https://github.com/Abir-7/mobile-dokan-client)
 
